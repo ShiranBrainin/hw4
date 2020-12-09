@@ -1,0 +1,14 @@
+a. 
+We believe that an estimated time for doing this task manually may take 5-15 minutes, using Ctrl+F.
+Without using Ctrl+f, it may take even a couple of hours to complete the task.
+
+b.
+The main conclusion of this exercise is that we can use bash scripts to do repeated actions like searching and organizing many types of data in a very quick and convenient way.
+More missions we can complete with these types of Bash scripts:
+* Finding articles/researches speaking about a specific subject we want to learn.
+* Finding information on people in every website we want
+
+c.
+We can define the whole bash script in a while loop with the condition (slepp 1h) so the whole script would run again every single hour. 
+If we want not to act on articles that have already been acted on, we can use 'diff' in the appropriate place in our code, so we will act only on new articles from the last hour.
+
